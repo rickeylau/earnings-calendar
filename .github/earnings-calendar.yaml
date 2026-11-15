@@ -1,31 +1,108 @@
+
 earnings:
   calendar:
     ics_path: "calendar.ics"
     relcalid: "earnings.calendar.earnings"
-    name: "Earnings Calendar"
-    description: "Earnings dates for selected tickers."
+    name: "SPX Earnings Calendar"
+    description: "Major earnings events affecting SPX, ES and the US stock market."
     retention_years: 1
+
   tickers:
     [
-      "INTC",
-      "MSFT",
-      "BABA",
-      "GOOGL",
-      "AMZN",
-      "NVDA",
-      "TSM",
-      "TSLA",
-      "AMD",
-      "QCOM",
+      # ==========================
+      # 01. Mega Cap / 七巨头 + AVGO
+      # ==========================
       "AAPL",
+      "NVDA",
+      "MSFT",
+      "AMZN",
+      "GOOGL",
       "META",
-      "KO",
+      "TSLA",
+      "AVGO",
+
+      # ==========================
+      # 02. Semiconductor / 半导体
+      # ==========================
+      "AMD",
+      "MU",
+      "INTC",
+      "QCOM",
+      "AMAT",
+      "LRCX",
+      "KLAC",
+      "TXN",
+      "TSM",
+      "ASML",
+      "ARM",
+
+      # ==========================
+      # 03. AI / Software / Cloud
+      # ==========================
+      "ORCL",
+      "CSCO",
+      "PLTR",
+      "CRM",
+      "NOW",
+      "IBM",
+      "PANW",
+      "CRWD",
+      "DELL",
+      "ANET",
+
+      # ==========================
+      # 04. Financials / 金融
+      # ==========================
+      "JPM",
+      "BAC",
+      "GS",
+      "MS",
+      "WFC",
+      "C",
+      "V",
+      "MA",
       "BRK.B",
-      "NVO",
-      "SPCX",
-      "RKLB",
-      "OKLO",
-      "HSAI",
+      "AXP",
+
+      # ==========================
+      # 05. Consumer / 消费
+      # ==========================
+      "WMT",
+      "COST",
+      "HD",
+      "TGT",
+      "LOW",
+      "MCD",
+      "PG",
+      "KO",
+      "NFLX",
+
+      # ==========================
+      # 06. Healthcare / 医疗
+      # ==========================
+      "LLY",
+      "UNH",
+      "JNJ",
+      "ABBV",
+      "MRK",
+
+      # ==========================
+      # 07. Industrials / 工业
+      # ==========================
+      "CAT",
+      "GE",
+      "GEV",
+      "RTX",
+      "BA",
+      "FDX",
+      "UPS",
+
+      # ==========================
+      # 08. Energy / 能源
+      # ==========================
+      "XOM",
+      "CVX",
     ]
-  days_ahead: 60
+
+  days_ahead: 90
   days_past: 10
