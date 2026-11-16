@@ -3,7 +3,7 @@ earnings:
   calendar:
     ics_path: "calendar.ics"
     relcalid: "earnings.calendar.earnings"
-    name: "SPX Earnings Calendar"
+    name: "Earnings Calendar"
     description: "Major earnings events affecting SPX, ES and the US stock market."
     retention_years: 1
 
