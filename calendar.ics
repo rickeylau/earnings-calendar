@@ -1,0 +1,440 @@
+BEGIN:VCALENDAR
+X-WR-CALNAME:Earnings Calendar
+X-WR-RELCALID:earnings.calendar.earnings
+X-WR-CALDESC:Major earnings events affecting SPX, ES and the US stock market.
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Ticker: PLTR\nFiscal Qtr: 4\nEstimate EPS: 0.5309\nEst. Revenue: 2.71 B\nReport Time: After Market Close\nSource: Finnhub
+DTEND:20270201T233000Z
+DTSTART:20270201T213000Z
+SUMMARY:PLTR Q4 Earnings (After Market Close)
+UID:v1-7a53b9df1f38bcec327cead5873b344c2a7c3ae4da72d139d67b70d5be233e6e@earnings.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ticker: WFC\nFiscal Qtr: 4\nEstimate EPS: 1.884\nEst. Revenue: 22.58 B\nReport Time: After Market Close\nSource: Finnhub
+DTEND:20270114T233000Z
+DTSTART:20270114T213000Z
+SUMMARY:WFC Q4 Earnings (After Market Close)
+UID:v1-28410f9e8dd898ff65802c233eab769f83ad6c15fdc15950ff2327a6d4926553@earnings.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ticker: KO\nFiscal Qtr: 4\nEstimate EPS: 0.6267\nEst. Revenue: 11.61 B\nReport Time: After Market Close\nSource: Finnhub
+DTEND:20270208T233000Z
+DTSTART:20270208T213000Z
+SUMMARY:KO Q4 Earnings (After Market Close)
+UID:v1-6cddd3c8621298e573fe6a7b05c3a61ec963aea79350a0e4ab5d3a148026e734@earnings.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ticker: META\nFiscal Qtr: 4\nEstimate EPS: 8.5681\nEst. Revenue: 76.72 B\nReport Time: After Market Close\nSource: Finnhub
+DTEND:20270126T233000Z
+DTSTART:20270126T213000Z
+SUMMARY:META Q4 Earnings (After Market Close)
+UID:v1-db692a38b11ad5f8d610cc1657f92238c516a9f59c629c3c6d089c8f03a99bb4@earnings.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ticker: JPM\nFiscal Qtr: 4\nEstimate EPS: 5.9036\nEst. Revenue: 51.75 B\nReport Time: After Market Close\nSource: Finnhub
+DTEND:20270114T233000Z
+DTSTART:20270114T213000Z
+SUMMARY:JPM Q4 Earnings (After Market Close)
+UID:v1-ba22a90bcaad82d81426af44145b44628b15cb72d0978ea9bfe4587fd4708fb2@earnings.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ticker: GE\nFiscal Qtr: 4\nEstimate EPS: 2.0913\nEst. Revenue: 13.71 B\nReport Time: After Market Close\nSource: Finnhub
+DTEND:20270120T233000Z
+DTSTART:20270120T213000Z
+SUMMARY:GE Q4 Earnings (After Market Close)
+UID:v1-d527bc89fe8b30ecb59e58075aa6f5caf40ae05d2bb77420627fc4483e246c61@earnings.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ticker: IBM\nFiscal Qtr: 4\nEstimate EPS: 4.6731\nEst. Revenue: 20.58 B\nReport Time: After Market Close\nSource: Finnhub
+DTEND:20270126T233000Z
+DTSTART:20270126T213000Z
+SUMMARY:IBM Q4 Earnings (After Market Close)
+UID:v1-7725180f107eb1ff5312c1e6d731601787b70c2aa683ae9e019a50a2a03b16a1@earnings.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ticker: LOW\nFiscal Qtr: 3\nEstimate EPS: 2.9103\nEst. Revenue: 22.63 B\nReport Time: Before Market Open\nSource: Finnhub
+DTEND:20261118T140000Z
+DTSTART:20261118T120000Z
+SUMMARY:LOW Q3 Earnings (Before Market Open)
+UID:v1-5573f3a40dc388b6b1ea3a0d59347fc3668df946c44387fc875182bab3ebd855@earnings.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270128
+DESCRIPTION:Ticker: XOM\nFiscal Qtr: 4\nEstimate EPS: 4.2235\nEst. Revenue: 120.98 B\nSource: Finnhub
+SUMMARY:XOM Q4 Earnings
+UID:v1-41c1c364628e54ac87aa8677eeb720b846bd533b35488b4abf22e188ac4377c8@earnings.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ticker: ASML\nFiscal Qtr: 4\nEstimate EPS: 15.1683\nEst. Revenue: 14.97 B\nReport Time: After Market Close\nSource: Finnhub\nSource Symbol: ASML.AS
+DTEND:20270127T233000Z
+DTSTART:20270127T213000Z
+SUMMARY:ASML Q4 Earnings (After Market Close)
+UID:v1-07b30a28a37021be302ef384a0efebbf2a51f49c3c6d8e79a2e51df868e6bb99@earnings.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261214
+DESCRIPTION:Ticker: ORCL\nFiscal Qtr: 2\nEstimate EPS: 1.934\nEst. Revenue: 21.75 B\nSource: Finnhub
+SUMMARY:ORCL Q2 Earnings
+UID:v1-2ca40dac5572d8a68ed186df7bdf24edf7603dab782d3f515c17dadc0457bbee@earnings.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ticker: GOOGL\nFiscal Qtr: 4\nEstimate EPS: 3.2277\nEst. Revenue: 146.38 B\nReport Time: After Market Close\nSource: Finnhub
+DTEND:20270202T233000Z
+DTSTART:20270202T213000Z
+SUMMARY:GOOGL Q4 Earnings (After Market Close)
+UID:v1-46fabb008801b1f45c9cc20f3e6c871ea37455dbdff42b6ff0f193798841870a@earnings.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261201
+DESCRIPTION:Ticker: CRWD\nFiscal Qtr: 3\nEstimate EPS: 0.3176\nEst. Revenue: 1.56 B\nSource: Finnhub
+SUMMARY:CRWD Q3 Earnings
+UID:v1-2e57d9373b422015c3e6564df4013c5e4014287d8f5af7d4c9f16a2e357b7c36@earnings.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270127
+DESCRIPTION:Ticker: AAPL\nFiscal Qtr: 1\nEstimate EPS: 2.9588\nEst. Revenue: 159.49 B\nSource: Finnhub
+SUMMARY:AAPL Q1 Earnings
+UID:v1-b1e12bdb89a721a703446f57242851843218285cb0331b5a6ce506048a9fb56b@earnings.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ticker: AMD\nFiscal Qtr: 4\nEstimate EPS: 2.9756\nEst. Revenue: 17.22 B\nReport Time: After Market Close\nSource: Finnhub
+DTEND:20270201T233000Z
+DTSTART:20270201T213000Z
+SUMMARY:AMD Q4 Earnings (After Market Close)
+UID:v1-cd66d955ea81a6f9940e61cd48d6ad111f31cc9aa909e2d8d65665dcb5c0d22b@earnings.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270210
+DESCRIPTION:Ticker: AMAT\nFiscal Qtr: 1\nEstimate EPS: 4.4608\nEst. Revenue: 11.37 B\nSource: Finnhub
+SUMMARY:AMAT Q1 Earnings
+UID:v1-c1816f1be1443d64649b455a17548a4bcd7e4bd5649ba5734f6cb1b9aa4f77f0@earnings.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ticker: MS\nFiscal Qtr: 4\nEstimate EPS: 3.0388\nEst. Revenue: 20.83 B\nReport Time: Before Market Open\nSource: Finnhub
+DTEND:20270114T140000Z
+DTSTART:20270114T120000Z
+SUMMARY:MS Q4 Earnings (Before Market Open)
+UID:v1-59bf4148b4a73949c8fea47fa26cda9984f8d90ee61d09f8173240f6af8b7a96@earnings.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ticker: ABBV\nFiscal Qtr: 4\nEstimate EPS: 3.9601\nEst. Revenue: 18.78 B\nReport Time: After Market Close\nSource: Finnhub
+DTEND:20270202T233000Z
+DTSTART:20270202T213000Z
+SUMMARY:ABBV Q4 Earnings (After Market Close)
+UID:v1-c69173b3a7df20cec60e7117185bc2ddf8e6bb5d6d4db7d627430c86d9320c2c@earnings.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ticker: AMZN\nFiscal Qtr: 4\nEstimate EPS: 2.4431\nEst. Revenue: 249.80 B\nReport Time: After Market Close\nSource: Finnhub
+DTEND:20270203T233000Z
+DTSTART:20270203T213000Z
+SUMMARY:AMZN Q4 Earnings (After Market Close)
+UID:v1-bc69b2e29231873244724bfdd7fe29d95953b7caeb477989fa8331ee241c68dd@earnings.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270209
+DESCRIPTION:Ticker: CSCO\nFiscal Qtr: 2\nEstimate EPS: 1.3727\nEst. Revenue: 18.51 B\nSource: Finnhub
+SUMMARY:CSCO Q2 Earnings
+UID:v1-92a6f4b50f4bb27b0b26aa3a7a29db6c3f2198f718c7aceab9f074f3801a57c8@earnings.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ticker: TSLA\nFiscal Qtr: 4\nEstimate EPS: 0.4629\nEst. Revenue: 29.64 B\nReport Time: After Market Close\nSource: Finnhub
+DTEND:20270126T233000Z
+DTSTART:20270126T213000Z
+SUMMARY:TSLA Q4 Earnings (After Market Close)
+UID:v1-d6e8f44959e6a4a2a0eda3c05335b1870a3ad2100c757fafb2abc22d05823d80@earnings.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270202
+DESCRIPTION:Ticker: QCOM\nFiscal Qtr: 1\nEstimate EPS: 2.2992\nEst. Revenue: 11.04 B\nSource: Finnhub
+SUMMARY:QCOM Q1 Earnings
+UID:v1-c7e929ce1c1cda7e7e9badfbc645d2da975cae6ee6d1cad03d8a05561b53499c@earnings.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ticker: MCD\nFiscal Qtr: 4\nEstimate EPS: 3.2059\nEst. Revenue: 7.15 B\nReport Time: After Market Close\nSource: Finnhub
+DTEND:20270209T233000Z
+DTSTART:20270209T213000Z
+SUMMARY:MCD Q4 Earnings (After Market Close)
+UID:v1-8f350519e4d936eae12645536f3830464b4d055f6918743b61455f1d1a7cc113@earnings.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ticker: DELL\nFiscal Qtr: 3\nEstimate EPS: 6.745\nEst. Revenue: 50.30 B\nReport Time: After Market Close\nSource: Finnhub
+DTEND:20261124T233000Z
+DTSTART:20261124T213000Z
+SUMMARY:DELL Q3 Earnings (After Market Close)
+UID:v1-6b25cb9ac74d2f7190265b4c05421531b496a0a19ec09607907791264d19345d@earnings.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ticker: MRK\nFiscal Qtr: 4\nEstimate EPS: 1.7619\nEst. Revenue: 16.45 B\nReport Time: After Market Close\nSource: Finnhub
+DTEND:20270202T233000Z
+DTSTART:20270202T213000Z
+SUMMARY:MRK Q4 Earnings (After Market Close)
+UID:v1-61eee11627c83618d59cca3e545b6e5123984a661b9700741683766216e227bd@earnings.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270126
+DESCRIPTION:Ticker: MSFT\nFiscal Qtr: 2\nEstimate EPS: 4.9626\nEst. Revenue: 98.63 B\nSource: Finnhub
+SUMMARY:MSFT Q2 Earnings
+UID:v1-f3401682881cb5654cb7ef8c47d14a265ab891f32bd066dd37a221a141d83d53@earnings.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ticker: TGT\nFiscal Qtr: 3\nEstimate EPS: 2.0934\nEst. Revenue: 26.82 B\nReport Time: Before Market Open\nSource: Finnhub
+DTEND:20261118T140000Z
+DTSTART:20261118T120000Z
+SUMMARY:TGT Q3 Earnings (Before Market Open)
+UID:v1-8d81c354baadf3289c6c3b5e898a62c494bdb1fabc5e02dbe26bdfea8e3d7711@earnings.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ticker: C\nFiscal Qtr: 4\nEstimate EPS: 2.3889\nEst. Revenue: 22.89 B\nReport Time: After Market Close\nSource: Finnhub
+DTEND:20270114T233000Z
+DTSTART:20270114T213000Z
+SUMMARY:C Q4 Earnings (After Market Close)
+UID:v1-fe6a34e7696b4501cdc3cf7dde31d5ce58050862e5715ed0daac717b9e380d87@earnings.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ticker: JNJ\nFiscal Qtr: 4\nEstimate EPS: 2.9378\nEst. Revenue: 26.68 B\nReport Time: After Market Close\nSource: Finnhub
+DTEND:20270126T233000Z
+DTSTART:20270126T213000Z
+SUMMARY:JNJ Q4 Earnings (After Market Close)
+UID:v1-2d1d6c6f42039aa8ea47e0c4080b725cfc1b313a7e431c40ef14b8a365ace1fb@earnings.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ticker: AXP\nFiscal Qtr: 4\nEstimate EPS: 4.3282\nEst. Revenue: 21.00 B\nReport Time: After Market Close\nSource: Finnhub
+DTEND:20270128T233000Z
+DTSTART:20270128T213000Z
+SUMMARY:AXP Q4 Earnings (After Market Close)
+UID:v1-65dd66f3d2320e9c54ff08ce4b324f2e6004c988635e39e76cdd3f3d14f79e4a@earnings.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ticker: UNH\nFiscal Qtr: 4\nEstimate EPS: 2.2901\nEst. Revenue: 113.45 B\nReport Time: After Market Close\nSource: Finnhub
+DTEND:20270125T233000Z
+DTSTART:20270125T213000Z
+SUMMARY:UNH Q4 Earnings (After Market Close)
+UID:v1-a15fb35eeba1329e2a8412cbd297b988bc8f4032e9a89a633def5e71ecd46513@earnings.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ticker: NOW\nFiscal Qtr: 4\nEstimate EPS: 1.0871\nEst. Revenue: 4.41 B\nReport Time: After Market Close\nSource: Finnhub
+DTEND:20270126T233000Z
+DTSTART:20270126T213000Z
+SUMMARY:NOW Q4 Earnings (After Market Close)
+UID:v1-216074c3f398b6a95ed5f9c84d92efba1dac250a724b967174d5cb5dc058d100@earnings.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ticker: GEV\nFiscal Qtr: 4\nEstimate EPS: 6.7205\nEst. Revenue: 13.98 B\nReport Time: Before Market Open\nSource: Finnhub
+DTEND:20270127T140000Z
+DTSTART:20270127T120000Z
+SUMMARY:GEV Q4 Earnings (Before Market Open)
+UID:v1-b9a228752b04bf810cde5f2fb002f62039a1421f7e24670bdb68c4884c3481b9@earnings.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ticker: BA\nFiscal Qtr: 4\nEstimate EPS: -0.8543\nEst. Revenue: 26.38 B\nReport Time: After Market Close\nSource: Finnhub
+DTEND:20270125T233000Z
+DTSTART:20270125T213000Z
+SUMMARY:BA Q4 Earnings (After Market Close)
+UID:v1-c9a6fff51547eb85d140083dbb3b0c656f97a6ad166cbd8ebb65e429ba1056df@earnings.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ticker: INTC\nFiscal Qtr: 4\nEstimate EPS: 0.2541\nEst. Revenue: 15.85 B\nReport Time: After Market Close\nSource: Finnhub
+DTEND:20270120T233000Z
+DTSTART:20270120T213000Z
+SUMMARY:INTC Q4 Earnings (After Market Close)
+UID:v1-7fd480b2e654c2b49ba0c582e81d96e8e28079698534e57378b6c1e2a7697b4e@earnings.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ticker: NVDA\nFiscal Qtr: 3\nEstimate EPS: 2.5252\nEst. Revenue: 111.29 B\nReport Time: After Market Close\nSource: Finnhub
+DTEND:20261117T233000Z
+DTSTART:20261117T213000Z
+SUMMARY:NVDA Q3 Earnings (After Market Close)
+UID:v1-496f92d948e3cb96b77566305c6dd4d99a180ad2a73534c09760b1e6f2ef8132@earnings.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270127
+DESCRIPTION:Ticker: V\nFiscal Qtr: 1\nEstimate EPS: 3.7026\nEst. Revenue: 12.45 B\nSource: Finnhub
+SUMMARY:V Q1 Earnings
+UID:v1-a0a33a83b473fdbcd82e9e579e873bd11ef43827ea982f99efc6b24475117e21@earnings.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ticker: TXN\nFiscal Qtr: 4\nEstimate EPS: 2.6504\nEst. Revenue: 6.11 B\nReport Time: After Market Close\nSource: Finnhub
+DTEND:20270125T233000Z
+DTSTART:20270125T213000Z
+SUMMARY:TXN Q4 Earnings (After Market Close)
+UID:v1-35960870a602b117e421d48dc8b097440f43bc58d80a4495933887fb664a0540@earnings.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270127
+DESCRIPTION:Ticker: KLAC\nFiscal Qtr: 2\nEstimate EPS: 1.4817\nEst. Revenue: 4.83 B\nSource: Finnhub
+SUMMARY:KLAC Q2 Earnings
+UID:v1-9a4adb1ca4ee4df6414c6ca5be078a04ee9c20e9f055ffc551113c707bca5099@earnings.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ticker: AVGO\nFiscal Qtr: 4\nEstimate EPS: 3.8912\nEst. Revenue: 35.59 B\nReport Time: After Market Close\nSource: Finnhub
+DTEND:20261209T233000Z
+DTSTART:20261209T213000Z
+SUMMARY:AVGO Q4 Earnings (After Market Close)
+UID:v1-4c9b8caa453ab3f4df9439d0cc2e737727a739cc63a5b744c9b39b0a19907e30@earnings.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270202
+DESCRIPTION:Ticker: ARM\nFiscal Qtr: 3\nEstimate EPS: 0.5698\nEst. Revenue: 1.56 B\nSource: Finnhub
+SUMMARY:ARM Q3 Earnings
+UID:v1-f18e1a84d0fb504e5a27f095c428ebc5b2c4453fd0489921f7fb26ff1c596c30@earnings.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ticker: NFLX\nFiscal Qtr: 4\nEstimate EPS: 0.6892\nEst. Revenue: 13.71 B\nReport Time: After Market Close\nSource: Finnhub
+DTEND:20270118T233000Z
+DTSTART:20270118T213000Z
+SUMMARY:NFLX Q4 Earnings (After Market Close)
+UID:v1-8d0c0953c07dded546562677e313d0b40524e8102fd4ea9afe9666eb87ba071c@earnings.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ticker: PANW\nFiscal Qtr: 1\nEstimate EPS: 0.9907\nEst. Revenue: 3.37 B\nReport Time: After Market Close\nSource: Finnhub
+DTEND:20261118T233000Z
+DTSTART:20261118T213000Z
+SUMMARY:PANW Q1 Earnings (After Market Close)
+UID:v1-ebcf3f51f0263fc58277b4ffcbdc4b2d01e485f639071bef40bc4f2b01655268@earnings.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ticker: WMT\nFiscal Qtr: 4\nEstimate EPS: 0.7886\nEst. Revenue: 202.26 B\nReport Time: After Market Close\nSource: Finnhub
+DTEND:20270218T233000Z
+DTSTART:20270218T213000Z
+SUMMARY:WMT Q4 Earnings (After Market Close)
+UID:v1-a12d227ba6329d50dd9a979990bea782bce5339bfaff5ff6b516172664692a96@earnings.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ticker: CVX\nFiscal Qtr: 4\nEstimate EPS: 5.7445\nEst. Revenue: 67.55 B\nReport Time: After Market Close\nSource: Finnhub
+DTEND:20270128T233000Z
+DTSTART:20270128T213000Z
+SUMMARY:CVX Q4 Earnings (After Market Close)
+UID:v1-3207ebde324df2b00dc1767d78a95341a176daa974f4e0346171ec8616e86371@earnings.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ticker: UPS\nFiscal Qtr: 4\nEstimate EPS: 2.7934\nEst. Revenue: 25.98 B\nReport Time: After Market Close\nSource: Finnhub
+DTEND:20270126T233000Z
+DTSTART:20270126T213000Z
+SUMMARY:UPS Q4 Earnings (After Market Close)
+UID:v1-214473bb02a539453a11b4411649f3d682926671d69399eaae1057121fd0f749@earnings.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270126
+DESCRIPTION:Ticker: LRCX\nFiscal Qtr: 2\nEstimate EPS: 2.3877\nEst. Revenue: 8.80 B\nSource: Finnhub
+SUMMARY:LRCX Q2 Earnings
+UID:v1-6e404085f0c7dac8484cfede8493d75e37cd6deaa69fc8c16fca11b1a5b9f794@earnings.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ticker: LLY\nFiscal Qtr: 4\nEstimate EPS: 11.3163\nEst. Revenue: 24.87 B\nReport Time: Before Market Open\nSource: Finnhub
+DTEND:20270202T140000Z
+DTSTART:20270202T120000Z
+SUMMARY:LLY Q4 Earnings (Before Market Open)
+UID:v1-01dd48d34c3970ac009a238a61bf5a36c6f7289c80fae1a895e8ead0947d6bde@earnings.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ticker: TSM\nFiscal Qtr: 4\nEstimate EPS: 33.4763\nEst. Revenue: 1.72 T\nReport Time: Before Market Open\nSource: Finnhub\nSource Symbol: 2330.TW
+DTEND:20270113T140000Z
+DTSTART:20270113T120000Z
+SUMMARY:TSM Q4 Earnings (Before Market Open)
+UID:v1-653a8d33198f7fbbabd2d65fa60b76c0353a88f037263386e64b96080c2eae14@earnings.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ticker: HD\nFiscal Qtr: 3\nEstimate EPS: 3.9542\nEst. Revenue: 44.09 B\nReport Time: Before Market Open\nSource: Finnhub
+DTEND:20261117T140000Z
+DTSTART:20261117T120000Z
+SUMMARY:HD Q3 Earnings (Before Market Open)
+UID:v1-37fa1743aa08ff8e28b7dabfde7c19f4d4f56d817589c4b4a1b927548cdfcd2b@earnings.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ticker: CAT\nFiscal Qtr: 4\nEstimate EPS: 6.5471\nEst. Revenue: 20.96 B\nReport Time: Before Market Open\nSource: Finnhub
+DTEND:20270202T140000Z
+DTSTART:20270202T120000Z
+SUMMARY:CAT Q4 Earnings (Before Market Open)
+UID:v1-5279a51d69e635519883017f0f32157fc89d5aff0ef1359a8e915694cac96ae8@earnings.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ticker: DELL\nFiscal Qtr: 4\nEstimate EPS: 7.6373\nEst. Revenue: 54.69 B\nReport Time: After Market Close\nSource: Finnhub
+DTEND:20270201T233000Z
+DTSTART:20270201T213000Z
+SUMMARY:DELL Q4 Earnings (After Market Close)
+UID:v1-237fcdf15de112a4c497f5a6f0029037f1fbdbd30064afae0c9fcf64c82ea616@earnings.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ticker: BAC\nFiscal Qtr: 4\nEstimate EPS: 1.1289\nEst. Revenue: 30.79 B\nReport Time: Before Market Open\nSource: Finnhub
+DTEND:20270115T140000Z
+DTSTART:20270115T120000Z
+SUMMARY:BAC Q4 Earnings (Before Market Open)
+UID:v1-12bca1b33b858e02360eda79c09877a71f4dad132ce44555127940d8780258ec@earnings.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ticker: WMT\nFiscal Qtr: 3\nEstimate EPS: 0.6424\nEst. Revenue: 189.14 B\nReport Time: Before Market Open\nSource: Finnhub
+DTEND:20261119T140000Z
+DTSTART:20261119T120000Z
+SUMMARY:WMT Q3 Earnings (Before Market Open)
+UID:v1-72f44bb813185e9a8bcfa5734a228f5456ccfb1f1160c7b25681e1ea4defa09b@earnings.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ticker: NVDA\nFiscal Qtr: 4\nEstimate EPS: 2.9375\nEst. Revenue: 133.31 B\nReport Time: After Market Close\nSource: Finnhub
+DTEND:20270223T233000Z
+DTSTART:20270223T213000Z
+SUMMARY:NVDA Q4 Earnings (After Market Close)
+UID:v1-ec4741858f8bec1f8e5e32a8c3543c5c06ec141f4c9e29c049d2055b036d6c27@earnings.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ticker: MU\nFiscal Qtr: 1\nEstimate EPS: 39.3702\nEst. Revenue: 63.79 B\nReport Time: After Market Close\nSource: Finnhub
+DTEND:20261217T233000Z
+DTSTART:20261217T213000Z
+SUMMARY:MU Q1 Earnings (After Market Close)
+UID:v1-9894253da170a4e220fb292adf88dbddc79e0aee873eb950122e824add8e3128@earnings.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261216
+DESCRIPTION:Ticker: FDX\nFiscal Qtr: 2\nEstimate EPS: 5.2719\nEst. Revenue: 23.86 B\nSource: Finnhub
+SUMMARY:FDX Q2 Earnings
+UID:v1-1b976fc3060cbf8667b18f8703631751c45904489cdc96df9d5cb65fe069a1b5@earnings.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ticker: ANET\nFiscal Qtr: 4\nEstimate EPS: 1.315\nEst. Revenue: 4.05 B\nReport Time: After Market Close\nSource: Finnhub
+DTEND:20270210T233000Z
+DTSTART:20270210T213000Z
+SUMMARY:ANET Q4 Earnings (After Market Close)
+UID:v1-dfbc1fad858099b464d8ecf2a7acda400cb343537f296f5745cca6d442d61192@earnings.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270215
+DESCRIPTION:Ticker: PANW\nFiscal Qtr: 2\nEstimate EPS: 1.0415\nEst. Revenue: 3.61 B\nSource: Finnhub
+SUMMARY:PANW Q2 Earnings
+UID:v1-604ca27a703d625a6332bd678b3f85484ceec53dd09eeec4d21799d89e95f06d@earnings.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261210
+DESCRIPTION:Ticker: COST\nFiscal Qtr: 1\nEstimate EPS: 5.0204\nEst. Revenue: 75.98 B\nSource: Finnhub
+SUMMARY:COST Q1 Earnings
+UID:v1-ae268ac3e0ed01ef94ceb049eaa035f4a4d52f0d9f48a469ed520e4f15fc923b@earnings.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ticker: MA\nFiscal Qtr: 4\nEstimate EPS: 5.2801\nEst. Revenue: 10.22 B\nReport Time: After Market Close\nSource: Finnhub
+DTEND:20270127T233000Z
+DTSTART:20270127T213000Z
+SUMMARY:MA Q4 Earnings (After Market Close)
+UID:v1-967c1917328f197728197d3e8c1b07ae990dc539e6fe31a0bfca30f820f0767b@earnings.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ticker: PG\nFiscal Qtr: 2\nEstimate EPS: 1.8469\nEst. Revenue: 23.54 B\nReport Time: Before Market Open\nSource: Finnhub
+DTEND:20270120T140000Z
+DTSTART:20270120T120000Z
+SUMMARY:PG Q2 Earnings (Before Market Open)
+UID:v1-5932f02fd75e1329830b7071941446b7f00914b25a0bd559d8951a17599134f0@earnings.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ticker: CRM\nFiscal Qtr: 3\nEstimate EPS: 3.4717\nEst. Revenue: 11.57 B\nReport Time: After Market Close\nSource: Finnhub
+DTEND:20261202T233000Z
+DTSTART:20261202T213000Z
+SUMMARY:CRM Q3 Earnings (After Market Close)
+UID:v1-a5cc1de3008a93ee030842d53cf2f345201c607556e24c23a84522c2ddd6fbfc@earnings.calendar.earnings
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ticker: CRM\nFiscal Qtr: 4\nEstimate EPS: 3.58\nEst. Revenue: 12.47 B\nReport Time: After Market Close\nSource: Finnhub
+DTEND:20270223T233000Z
+DTSTART:20270223T213000Z
+SUMMARY:CRM Q4 Earnings (After Market Close)
+UID:v1-be939904f5db469806937957cdfc95e889ffec991cfefbe4c61d29cd114b6204@earnings.calendar.earnings
+END:VEVENT
+END:VCALENDAR
